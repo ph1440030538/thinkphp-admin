@@ -1,7 +1,8 @@
 {
     "name": "fuyun/admin",
     "description": "thinkphp-admin",
-    "keywords": ["message queue"],
+    "license": "Apache-2.0",
+    "keywords": ["thinkphp5 admin"],
     "version": "0.0.1",
     "authors": [
         {
