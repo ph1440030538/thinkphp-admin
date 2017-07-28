@@ -1,0 +1,15 @@
+{
+    "name": "fuyun/admin",
+    "description": "thinkphp-admin",
+    "keywords": ["message queue"],
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "fuyun",
+            "email": "1440030538@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+}
